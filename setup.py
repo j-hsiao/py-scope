@@ -7,5 +7,6 @@ setup(
     author='Jason Hsiao',
     author_email='oaishnosaj@gmail.com',
     description='Get names in scope.',
+    packages=['jhsiao'],
     py_modules=['jhsiao.scope']
 )
